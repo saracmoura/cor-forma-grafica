@@ -44,7 +44,6 @@ a:focus-visible, .btn:focus-visible, .form-control:focus-visible {
 }
 .btn-outline-light { --bs-btn-hover-color: var(--escuro); }
 
-
 .hero {
   padding: 4rem 0 5rem;
   background: var(--escuro);
